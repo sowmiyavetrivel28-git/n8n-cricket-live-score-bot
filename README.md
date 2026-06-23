@@ -1,4 +1,4 @@
-# n8n-cricket-live-score-bot
+
 # n8n Cricket Live Score Bot
 
 ## Project Overview
